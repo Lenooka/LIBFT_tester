@@ -3,7 +3,7 @@ void    test_isalum(void)
 {
     char    c;
 
-    printf("\033[0;31mft_isalum: \033[0m ");
+    printf("\033[0;31mft_isalnum: \033[0m ");
 
     c = 'a';
     if (ft_isalnum(c) == 0)
