@@ -1,4 +1,9 @@
 #include "../../libft.h"
+# include <stdlib.h>
+# include <unistd.h>
+# include <stdio.h>
+# include <string.h>
+
 char	**free_arr(char **str)
 {
 	int	a;

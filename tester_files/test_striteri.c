@@ -1,4 +1,8 @@
 #include "../../libft.h"
+# include <stdlib.h>
+# include <unistd.h>
+# include <stdio.h>
+# include <string.h>
 
 void	f_foriteri(unsigned int i, char *c)
 {

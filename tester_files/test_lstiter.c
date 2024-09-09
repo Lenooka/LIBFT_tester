@@ -1,4 +1,8 @@
 #include "../../libft.h"
+# include <stdlib.h>
+# include <unistd.h>
+# include <stdio.h>
+# include <string.h>
 void    ft_lstiter_test(void *elem)
 {
     *(int *)elem += 1;

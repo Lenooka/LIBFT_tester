@@ -2,13 +2,12 @@
 
 #include <stdio.h>
 #include <string.h>
-#include <unistd.h> // for write()
+#include <unistd.h>
 
 #include <stdio.h>
 #include <string.h>
-#include <unistd.h> // for write()
+#include <unistd.h>
 
-// Define ft_memset function here or include your libft header
 void *ft_memset(void *str, int c, size_t n);
 
 void test_memset(void)
