@@ -1,5 +1,4 @@
-#include "../libft.h"
-
+#include "../../libft.h"
 void    test_isalum(void)
 {
     char    c;

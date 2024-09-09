@@ -1,5 +1,4 @@
-#include "libft.h"
-
+#include "../../libft.h"
 void    test_strdup()
 {
     char    *str;

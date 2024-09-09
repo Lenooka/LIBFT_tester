@@ -1,5 +1,4 @@
-#include "libft.h"
-
+#include "../../libft.h"
 char	**free_arr(char **str)
 {
 	int	a;
