@@ -552,4 +552,4 @@ echo -e "\n"
 cd ..
 make fclean > /dev/null 2>&1
 echo -e "\033[0;33mKEEP UP THE GOOD WORK :) \033[0m\n"
-cd tester
+cd LIBFT_tester
